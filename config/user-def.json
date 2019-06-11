@@ -1,0 +1,15 @@
+{
+        "Username": "testheamanth2493@gmail.com",
+        "LastName": "Hobbs",
+        "Email": "hemanth2493@gmail.com",
+        "Alias": "tester1",
+        "TimeZoneSidKey": "America/Denver",
+        "LocaleSidKey": "en_US",
+        "EmailEncodingKey": "UTF-8",
+        "LanguageLocaleKey": "en_US",
+        "profileName": "System Administrator",
+        "license" : "salesforce limited access - free",
+        "permsets": [],
+        "generatePassword": true
+    }
+    
